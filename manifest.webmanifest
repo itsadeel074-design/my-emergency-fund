@@ -1,0 +1,9 @@
+{
+  "name": "My Emergency Fund",
+  "short_name": "Emergency Fund",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f8f5",
+  "theme_color": "#087f5b",
+  "description": "Track daily savings toward your Rs. 130,000 emergency fund."
+}
